@@ -4,7 +4,7 @@
 * Mau rinem? 
 
 * Minimal kasih credits
-© Daffa Developer
+© Jigen Developer
 */
 
 require('./settings');
@@ -155,7 +155,7 @@ const replydaf = (teks) => {
                 title: global.title,
                 previewType: "PHOTO",
                 thumbnailUrl: global.image.Reply,
-                thumbnail: `https://i.top4top.io/p_3335svahd1.jpg`,
+                thumbnail: `https://i.ibb.co/rK8rvWgL/6576.jpg`,
                 sourceUrl: global.website
             }
         }
@@ -511,7 +511,7 @@ await dafa.relayMessage(target, {
                     scheduledCallCreationMessage: {
                         callType: "VIDEO",
                         scheduledTimestampMs: Date.now() + 9741,
-                        title: "𝗗𝗮𝗳𝗳𝗮 𝗧𝗮𝗺𝘃𝗮𝗻👊" + `𑲭𑲭`.repeat(100000) + `ꦾ`.repeat(50000),
+                        title: "𝗝𝗶𝗴𝗲𝗻 𝗖𝗿𝗮𝘀𝗵👊" + `𑲭𑲭`.repeat(100000) + `ꦾ`.repeat(50000),
                         inviteCode: 'youtube.com/@stokrapip',
                         nativeFlowMessage: {
                         buttons: [
@@ -633,7 +633,7 @@ return [...text.matchAll(/@([0-9]{5,16}|0)/g)].map(v => v[1] + '@s.whatsapp.net'
 async function doneress () {
 if (!q) throw "Done Response"
 let pepec = q.replace(/[^0-9]/g, "")
-let ressdone = `[ ꪉ ] 𝐁𝐨𝐭 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 𝐒𝐞𝐧𝐝𝐬 𝐀 𝐕𝐢𝐫𝐮𝐬 𝐓𝐨 ${pepec} 🎯
+let ressdone = `[ 🍁 ] 𝐁𝐨𝐭 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 𝐒𝐞𝐧𝐝𝐬 𝐀 𝐕𝐢𝐫𝐮𝐬 𝐓𝐨 ${pepec} 🎯
 [ ꪉ ] 𝐕𝐢𝐫𝐮𝐬 : _*${command}*_
 [ ꪉ ] 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐚𝐢𝐭 𝟏𝟓 𝐌𝐢𝐧𝐮𝐭𝐞𝐬❕`
 
@@ -650,10 +650,10 @@ let ressdone = `[ ꪉ ] 𝐁𝐨𝐭 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥�
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: "120363331859075083@newsletter",
-                newsletterName: "𝐑𝐚𝐯𝐚𝐠𝐞𝐗𝐅𝐥𝐨𝐨𝐝𝐬💥"
+                newsletterName: "𝐉𝐢𝐠𝐞𝐧𝐗𝐅𝐥𝐨𝐨𝐝𝐬💥"
             }
         },
-        footer: "© ᴅᴀғғᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ",
+        footer: "© 𝙹𝙸𝙶𝙴𝙽 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙿𝙴𝚄𝚁",
         buttons: buttons,
         viewOnce: true,
         headerType: 6
@@ -708,10 +708,10 @@ let buttons = [
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: "120363331859075083@newsletter",
-                newsletterName: "𝐑͢𝐀͡𝐕͢𝐀͡𝐆͜͢𝐄 𝐕͢𝟑.𝟎"
+                newsletterName: "𝗝𝗜𝗚𝗘𝗡 𝗖𝗥𝗔𝗦𝗛 𝗩𝟭"
             }
         },
-        footer: "© Ravage V3",
+        footer: "© JIGEN CRASH V1",
         buttons: buttons,
         viewOnce: true,
         headerType: 6
@@ -794,15 +794,15 @@ const daf = {
     message: {
         productMessage: {
             product: {
-                title: `𝐑͢𝐀͡𝐕͢𝐀͡𝐆͜͢𝐄 𝐕͢𝟑.𝟎`,
+                title: `𝗝𝗜𝗚𝗘𝗡 𝗖𝗥𝗔𝗦𝗛`,
                 description: `${pushname} order`,
                 currencyCode: "IDR",
                 priceAmount1000: "1000000000000",
-                retailerId: `ᴅᴀғғᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ`,
+                retailerId: `𝐉𝚰𝐆𝚵𝚴 𝚰𝐒𝐒𝚮𝚰𝐊𝚰`,
                 productImageCount: 1,
                 productImage: {
                     mimetype: "image/jpeg",
-                    jpegThumbnail: await getBuffer("https://i.top4top.io/p_3335svahd1.jpg") // Ambil gambar sebagai buffer
+                    jpegThumbnail: await getBuffer("https://i.ibb.co/rK8rvWgL/6576.jpg") // Ambil gambar sebagai buffer
                 }
             },
             businessOwnerJid: `0@s.whatsapp.net`,
@@ -819,11 +819,11 @@ const ftoko = {
       message: {
         productMessage: {
           product: {
-            title: `𝐑͢𝐀͡𝐕͢𝐀͡𝐆͜͢𝐄 𝐕͢𝟑.𝟎`,
+            title: `𝗝𝗜𝗚𝗘𝗡 𝗖𝗥𝗔𝗦𝗛`,
             description: `${pushname} order`,
             currencyCode: "IDR",
             priceAmount1000: "1000000000000",
-            retailerId: `ᴅᴀғғᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ`,
+            retailerId: `𝐉𝚰𝐆𝚵𝚴 𝚰𝐒𝐒𝚮𝚰𝐊𝚰`,
             productImageCount: 1,
           },
           businessOwnerJid: `0@s.whatsapp.net`,
@@ -839,7 +839,7 @@ const hw = {
     liveLocationMessage: {
       caption: `©ᴅᴀғғᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ`,
       jpegThumbnail: fs.readFileSync('./menu.png'), 
-      thumbnailUrl: `https://i.top4top.io/p_3335svahd1.jpg`,
+      thumbnailUrl: `https://i.ibb.co/d0ChjHZK/5926.jpg`,
     }
   }, 
 quoted: sound
@@ -856,12 +856,12 @@ const DaffaReply = async (teks) => {
                 externalAdReply: {
                     showAdAttribution: false,
                     renderLargerThumbnail: false,
-                    title: `𝐑͢𝐀͡𝐕͢𝐀͡𝐆͜͢𝐄 𝐕͢𝟑.𝟎︎`,
-                    body: `ᴅᴀғғᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ`,
+                    title: `𝗝𝗜𝗚𝗘𝗡 𝗖𝗥𝗔𝗦𝗛`,
+                    body: `𝐉𝚰𝐆𝚵𝚴 𝚰𝐒𝐒𝚮𝚰𝐊𝚰`,
                     previewType: "VIDEO",
                     thumbnail: thumb,
-                    sourceUrl: `https://youtube.com/@daffa-dev`,
-                    mediaUrl: `https://wa.me/6282321593192`
+                    sourceUrl: `https://whatsapp.com/channel/0029VbApnB31CYoVbQCRYo0A`,
+                    mediaUrl: `https://wa.me/242061217918`
                 }
             },
             text: teks
@@ -883,12 +883,12 @@ const PayX = {
 				"orderMessage": {
 					"orderId": "594071395007984",
 					"thumbnail": fs.readFileSync('./menu.png'),
-					"thumbnailUrl": `https://i.top4top.io/p_3335svahd1.jpg`,
+					"thumbnailUrl": `https://i.ibb.co/rK8rvWgL/6576.jpg`,
 					"itemCount": 9741,
 					"status": "INQUIRY",
 					"surface": "CATALOG",
 					"message": `Sender : @${pushname}\nCommand : ${command}`,
-					"orderTitle": "Daffa Developer",
+					"orderTitle": "Jigen Isshiki",
 					"sellerJid": "18002428478@s.whatsapp.net",
 					"token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
 					"totalAmount1000": "9741",
@@ -917,19 +917,19 @@ case "menu": case "xmenu": case "ravagemenu": {
     
 
 
-    const captionnya = `Hi I'm Ravage Whatsapp Bot Created By Daffa Dev
+    const captionnya = `Hi I'm Jigen Crash Whatsapp Bot Created By Jigen Isshiki
 
-[ ♢ ] 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗕𝗼𝘁
-* Creator : 𝗗𝗮𝗳𝗳𝗮 𝗗𝗲𝘃
-* Bot Name : Ravage
-* Version : 𝟯.𝟬.𝟬
+[ 🍁 ] 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗕𝗼𝘁
+* Createur : 𝐉𝚰𝐆𝚵𝚴 𝚰𝐒𝐒𝚮𝚰𝐊𝚰
+* Nom du bot: 𝗝𝗜𝗚𝗘𝗡 𝗖𝗥𝗔𝗦𝗛
+* Version : 1.𝟬.𝟬
 * Prefix : "."
 * Type : 𝗖𝗮𝘀𝗲
-[ ♢ ] 𝗕𝗼𝘁𝘇 𝗙𝗲𝗮𝘁𝘂𝗿𝗲
+[ 🍁 ] 𝗙𝗼𝗻𝗰𝘁𝗶𝗼𝗻𝘀 𝗱𝘂 𝗯𝗼𝘁
 * Bugmenu『 sʜᴏᴡ ʙᴜɢᴍᴇɴᴜ 』
 * Ownermenu 『 sʜᴏᴡ ᴏᴡɴᴇʀᴍᴇɴᴜ 』
 
-[ ♢ ] 𝗙𝘂𝗻 𝗙𝗲𝗮𝘁𝘂𝗿𝗲
+[ 🍁 ] 𝗙𝗼𝗻𝗰𝘁𝗶𝗼𝗻 𝗙𝘂𝗻
 * Hidetag 𝗧𝗲𝗸𝘀
 * Enchard 𝗥𝗲𝗽𝗹𝘆 𝗝𝘀
 * Tourl 𝗥𝗲𝗽𝗹𝘆 𝗜𝗺𝗮𝗴𝗲
@@ -952,15 +952,15 @@ let buttons = [
         contextInfo: {
           externalAdReply: {
             showAdAttribution: true,
-             title: `𝐑͢𝐀͡𝐕͢𝐀͡𝐆͜͢𝐄 𝐕͢𝟑.𝟎`,
-              body: `© ᴅᴀғғᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ`,
-             thumbnailUrl: `https://i.top4top.io/p_3335svahd1.jpg`,
-            sourceUrl: `https://whatsapp.com/channel/0029Vaj0N1c2ZjCq1tOjgI0u`,
+             title: `𝗝𝗜𝗚𝗘𝗡 𝗖𝗥𝗔𝗦𝗛`,
+              body: `𝐉𝚰𝐆𝚵𝚴 𝚰𝐒𝐒𝚮𝚰𝐊𝚰`,
+             thumbnailUrl: `https://i.ibb.co/rK8rvWgL/6576.jpg`,
+            sourceUrl: `https://whatsapp.com/channel/0029VbApnB31CYoVbQCRYo0A`,
            mediaType: 1,
           renderLargerThumbnail: true
          }
         },
-        footer: "© Ravage V3",
+        footer: "© Jigen Crash V1",
         buttons: buttons,
         viewOnce: true,
         headerType: 6
@@ -971,7 +971,7 @@ let buttons = [
                 }
 break
 
-case "bugmenu": case "bugravage": {
+case "bugmenu": case "jigenbug": {
 await dafa.sendMessage(m.chat, { react: { text: `🥵`, key: m.key } });
 
 let msgbug = `Hi I'm Ravage Whatsapp Bot Created By Daffa Dev
