@@ -1,7 +1,7 @@
 /*
 
-credits © Daffa Developer
-𝗗𝗲𝘃 𝗦𝗰 : 𝗗𝗮𝗳𝗳𝗮 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
+credits © Jigen Developer
+𝗗𝗲𝘃 𝗦𝗰 : 𝗝𝗶𝗴𝗲𝗻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
 ᴅɪʟᴀʀᴀɴɢ ʀɪɴᴇᴍ
 ᴅɪʟᴀʀᴀɴɢ ᴅɪ sᴇʙᴀʀ/ғʀᴇᴇ
 ʟᴀɴɢɢᴀʀ? ɢᴡ ғɪx ʙɪᴀʀ ɢᴀʙɪsᴀ ᴅɪᴘᴀᴋᴇ ʟᴀɢɪ
@@ -11,15 +11,15 @@ credits © Daffa Developer
 
 const fs = require('fs')
 
-global.botname = "Ravage V3.0"
-global.version = "3.0"
-global.owner = "6282321593192"
-global.numberbot = ""
-global.footer = "DAFFA ALWAYS SOLO?"
+global.botname = "𝗝𝗶𝗴𝗲𝗻 𝗖𝗿𝗮𝘀𝗵"
+global.version = "1.0"
+global.owner = "242061217918"
+global.numberbot = "242061217918"
+global.footer = "JIGEN ALWAYS SOLO"
 global.title = "© ᴅᴀғғᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ"
-global.website = "whatsapp.com/channel/0029VakL4GD2phHJckS4Wc24"
+global.website = "https://whatsapp.com/channel/0029VbApnB31CYoVbQCRYo0A"
 global.idch = "120363374006048687@newsletter"
-global.chjid = "https://whatsapp.com/channel/0029VakL4GD2phHJckS4Wc24"
+global.chjid = "https://whatsapp.com/channel/0029VbApnB31CYoVbQCRYo0A"
 global.wm = "ᴅᴀғғᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ"
 
 //===================================//
@@ -27,9 +27,9 @@ global.session = "session"
 
 
 //=========== [ IMG-URL ] ===========//
-global.thumb = "https://f.top4top.io/p_3320musil1.jpg"
+global.thumb = "https://i.ibb.co/d0ChjHZK/5926.jpg"
 global.image = {
-Reply: "https://f.top4top.io/p_3320musil1.jpg"
+Reply: "https://i.ibb.co/Kp9hYtVJ/7821.jpg"
 }
 //==================================//
 
