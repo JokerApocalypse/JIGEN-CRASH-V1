@@ -974,29 +974,29 @@ break
 case "bugmenu": case "jigenbug": {
 await dafa.sendMessage(m.chat, { react: { text: `🥵`, key: m.key } });
 
-let msgbug = `Hi I'm Ravage Whatsapp Bot Created By Daffa Dev
+let msgbug = `Hi I'm Jigen Crash Whatsapp Bot Created By Jigen Isshiki
 
-[ ♢ ] 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗕𝗼𝘁
-* Creator : 𝗗𝗮𝗳𝗳𝗮 𝗗𝗲𝘃
-* Bot Name : Ravage
-* Version : 𝟯.𝟬.𝟬
+[ 🍁 ] 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗕𝗼𝘁
+* Createur : 𝐉𝚰𝐆𝚵𝚴 𝚰𝐒𝐒𝚮𝚰𝐊𝚰
+* Nom du bot : 𝗝𝗜𝗚𝗘𝗡 𝗖𝗥𝗔𝗦𝗛
+* Version : 𝟭.𝟬.𝟬
 * Prefix : "."
 * Type : 𝗖𝗮𝘀𝗲
-[ ♢ ] 𝗕𝘂𝗴𝘀 𝗙𝗲𝗮𝘁𝘂𝗿𝗲
-* Flowclose 𝗡𝘂𝗺𝗯𝗲𝗿
-* Msgflow 𝗡𝘂𝗺𝗯𝗲𝗿
-* Nativecore 𝗡𝘂𝗺𝗯𝗲𝗿
-* Locax 𝗡𝘂𝗺𝗯𝗲𝗿
-* Flowfc 𝗡𝘂𝗺𝗯𝗲𝗿
-[ ♢ ] 𝗜𝗽𝗵𝗼𝗻𝗲 𝗕𝘂𝗴𝘀 𝗙𝗲𝗮𝘁𝘂𝗿𝗲
-* 𝗜𝗽𝗵𝗼𝗻𝗲-𝗰𝗿𝗮𝘀𝗵 𝗡𝘂𝗺𝗯𝗲𝗿
-* Iphone-crash-home 𝗡𝘂𝗺𝗯𝗲𝗿
-[ ♢ ] 𝗦𝗽𝗮𝗺 𝗙𝗲𝗮𝘁𝘂𝗿𝗲
+[ 🍁 ] 𝗙𝗼𝗻𝗰𝘁𝗶𝗼𝗻 𝗕𝘂𝗴𝘀
+* Crash-ots 𝗡𝘂𝗺𝗯𝗲𝗿
+* Jigen 𝗡𝘂𝗺𝗯𝗲𝗿
+* Apocalypse 𝗡𝘂𝗺𝗯𝗲𝗿
+* Phoenix 𝗡𝘂𝗺𝗯𝗲𝗿
+* Blood 𝗡𝘂𝗺𝗯𝗲𝗿
+[ 🍁 ] 𝗜𝗽𝗵𝗼𝗻𝗲 𝗕𝘂𝗴𝘀
+* Jigen-iphone 𝗡𝘂𝗺𝗯𝗲𝗿
+* Crash-iphone 𝗡𝘂𝗺𝗯𝗲𝗿
+[ 🍁 ] 𝗙𝗼𝗻𝗰𝘁𝗶𝗼𝗻 𝗦𝗽𝗮𝗺
 * Clearbug 𝗡𝘂𝗺𝗯𝗲𝗿
 * Spamripper 𝗡𝘂𝗺𝗯𝗲𝗿
 * Spamyatim 𝗡𝘂𝗺𝗯𝗲𝗿
-[ ♢ ] 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗙𝗲𝗮𝘁𝘂𝗿𝗲
-* Ravage 𝗡𝘂𝗺𝗯𝗲𝗿`
+[ 🍁 ] 𝗙𝗼𝗻𝗰𝘁𝗶𝗼𝗻 𝗦𝗽𝗲𝗰𝗶𝗮𝗹
+* Jigen-isshiki 𝗡𝘂𝗺𝗯𝗲𝗿`
 let buttons = [
         { buttonId: ".daffaganteng", buttonText: { displayText: "Owner" } }, 
         { buttonId: ".thanksto", buttonText: { displayText: "Thanks To" } }
@@ -1010,10 +1010,10 @@ let buttons = [
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: "120363331859075083@newsletter",
-                newsletterName: "𝐑͢𝐀͡𝐕͢𝐀͡𝐆͜͢𝐄 𝐕͢𝟑.𝟎"
+                newsletterName: "𝗝𝗜𝗚𝗘𝗡 𝗖𝗥𝗔𝗦𝗛"
             }
         },
-        footer: "© Ravage V3",
+        footer: "© Jigen-Crash V1",
         buttons: buttons,
         viewOnce: true,
         headerType: 6
@@ -1023,12 +1023,12 @@ await dafa.sendMessage(m.chat, buttonMessage, { quoted: PayX });
 break
 
 case "ownermenu": {
-let msgown = `Hi I'm Ravage Whatsapp Bot Created By Daffa Dev
+let msgown = `Hi I'm Jigen-Crash Whatsapp Bot Created By Jigen-Isshiki 
 
-[ ♢ ] 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗕𝗼𝘁
-* Creator : 𝗗𝗮𝗳𝗳𝗮 𝗗𝗲𝘃
-* Bot Name : Ravage
-* Version : 𝟯.𝟬.𝟬
+[ 🍁 ] 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗕𝗼𝘁
+* Creator : 𝐉𝚰𝐆𝚵𝚴 𝚰𝐒𝐒𝚮𝚰𝐊𝚰
+* Bot Name : 𝗝𝗜𝗚𝗘𝗡 𝗖𝗥𝗔𝗦𝗛
+* Version : 1.𝟬.𝟬
 * Prefix : "."
 * Type : 𝗖𝗮𝘀𝗲
 [ ♢ ] 𝗢𝘄𝗻𝗲𝗿 𝗙𝗲𝗮𝘁𝘂𝗿𝗲
@@ -1050,10 +1050,10 @@ let buttons = [
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: "120363331859075083@newsletter",
-                newsletterName: "𝐑͢𝐀͡𝐕͢𝐀͡𝐆͜͢𝐄 𝐕͢𝟑.𝟎"
+                newsletterName: "𝗝𝗜𝗚𝗘𝗡 𝗖𝗥𝗔𝗦𝗛"
             }
         },
-        footer: "© Ravage V3",
+        footer: "© Jigen-Crash V1",
         buttons: buttons,
         viewOnce: true,
         headerType: 6
@@ -1062,7 +1062,7 @@ await dafa.sendMessage(m.chat, buttonMessage, { quoted: PayX });
 }
 break
 
-case 'owner': case "daffaganteng": {
+case 'owner': case "jigen": {
 dafa.sendMessage(from, {react: {text: "👤", key: m.key}})
 let menu = `
 *\`𝘾𝙊𝙉𝙏𝘼𝘾𝙏𝙎 𝙊𝙒𝙉𝙀𝙍\`*
