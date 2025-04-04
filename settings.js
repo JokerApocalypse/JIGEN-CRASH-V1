@@ -16,11 +16,11 @@ global.version = "1.0"
 global.owner = "242061217918"
 global.numberbot = "242061217918"
 global.footer = "JIGEN ALWAYS SOLO"
-global.title = "© ᴅᴀғғᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ"
+global.title = "© 𝙹𝙸𝙶𝙴𝙽 𝙳𝙴𝚅"
 global.website = "https://whatsapp.com/channel/0029VbApnB31CYoVbQCRYo0A"
 global.idch = "120363374006048687@newsletter"
 global.chjid = "https://whatsapp.com/channel/0029VbApnB31CYoVbQCRYo0A"
-global.wm = "ᴅᴀғғᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ"
+global.wm = "𝙹𝙸𝙶𝙴𝙽 𝙳𝙴𝚅"
 
 //===================================//
 global.session = "session"
