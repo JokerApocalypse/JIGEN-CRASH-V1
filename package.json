@@ -1,7 +1,7 @@
 {
-    "name": "Daffa Developer",
-    "version": "3.0.0",
-    "description": "Daffa Tamvan",
+    "name": "Jigen Crash",
+    "version": "1.0.0",
+    "description": "Crash WhatsApp",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
@@ -11,7 +11,7 @@
         "whiskeysockets",
         "multi-device"
     ],
-    "author": "Daffa Ganteng",
+    "author": "Jigen Isshiki",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
