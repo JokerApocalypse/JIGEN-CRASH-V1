@@ -1067,9 +1067,9 @@ dafa.sendMessage(from, {react: {text: "👤", key: m.key}})
 let menu = `
 *\`𝘾𝙊𝙉𝙏𝘼𝘾𝙏𝙎 𝙊𝙒𝙉𝙀𝙍\`*
 
-*👋 ʜɪ ᴋᴀᴋ*
-_ᴄᴏɴᴛᴀᴄᴛꜱ ᴄʀᴇᴀᴛᴏʀ ᴅɪ ʙᴀᴡᴀʜ ɪɴɪ_
-_ᴍᴏʜᴏɴ ᴜɴᴛᴜᴋ ᴛɪᴅᴀᴋ ꜱᴘᴀᴍ ᴀᴛᴀᴜᴘᴜɴ ᴛᴇʟᴇᴘᴏɴ ᴛᴇʀɪᴍᴀᴋᴀꜱɪʜ._
+*👋 HELLO*
+_SI TU VEUX LE SCRIPT, CONTACT MOI_
+_NE CHERCHE PAS LOIN, JIGEN-CRASH EST LE BEST._
 `
 let msg = generateWAMessageFromContent(m.chat, {
  viewOnceMessage: {
@@ -1083,7 +1083,7 @@ let msg = generateWAMessageFromContent(m.chat, {
  mentionedJid: [m.sender], 
  isForwarded: true, 
  forwardedNewsletterMessageInfo: {
- newsletterName: `𝐑͢𝐀͡𝐕͢𝐀͡𝐆͜͢𝐄 𝐕͢𝟑.𝟎`,
+ newsletterName: `𝗝𝗜𝗚𝗘𝗡 𝗖𝗥𝗔𝗦𝗛`,
  newsletterJid: "120363331859075083@newsletter",
  serverMessageId: 143
 },
@@ -1093,7 +1093,7 @@ let msg = generateWAMessageFromContent(m.chat, {
  text: menu
  }),
  footer: proto.Message.InteractiveMessage.Footer.create({
- text: "𝐑͢𝐀͡𝐕͢𝐀͡𝐆͜͢𝐄 𝐕͢𝟑.𝟎"
+ text: "𝗝𝗜𝗚𝗘𝗡 𝗖𝗥𝗔𝗦𝗛"
  }),
  header: proto.Message.InteractiveMessage.Header.create({
  title: ``,
@@ -1104,15 +1104,15 @@ let msg = generateWAMessageFromContent(m.chat, {
  nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
                     buttons: [{
 "name": "cta_url",
-"buttonParamsJson": `{\"display_text\":\"ᴏᴡɴᴇʀ\",\"url\":\"https://wa.me/6282321593192\",\"merchant_url\":\"https://wa.me/6282321593192\"}`
+"buttonParamsJson": `{\"display_text\":\"ᴏᴡɴᴇʀ\",\"url\":\"https://wa.me/242061217918\",\"merchant_url\":\"https://wa.me/242061217918\"}`
 },
 {
 "name": "cta_url",
-"buttonParamsJson": `{\"display_text\":\"sᴀʟᴜʀᴀɴ ɪɴғᴏ ᴜᴘᴅᴀᴛᴇ sᴄ\",\"url\":\"https://whatsapp.com/channel/0029Vaj0N1c2ZjCq1tOjgI0u\",\"merchant_url\":\"https://wa.me/6282321593192\"}`
+"buttonParamsJson": `{\"display_text\":\"sᴀʟᴜʀᴀɴ ɪɴғᴏ ᴜᴘᴅᴀᴛᴇ sᴄ\",\"url\":\"https://whatsapp.com/channel/0029VbApnB31CYoVbQCRYo0A\",\"merchant_url\":\"https://wa.me/242061217918\"}`
 },
 {
 "name": "cta_url",
-"buttonParamsJson": `{\"display_text\":\"sᴀʟᴜʀᴀɴ ᴅᴇᴠ\",\"url\":\"https://whatsapp.com/channel/0029VakL4GD2phHJckS4Wc24\",\"merchant_url\":\"https://wa.me/6282321593192\"}`
+"buttonParamsJson": `{\"display_text\":\"sᴀʟᴜʀᴀɴ ᴅᴇᴠ\",\"url\":\"https://whatsapp.com/channel/0029VbApnB31CYoVbQCRYo0A\",\"merchant_url\":\"https://wa.me/242061217918\"}`
 }],
  })
  })
@@ -1162,13 +1162,13 @@ DaffaReply(`*\`Succes Beralih mode ke mode self\`*`)
 }
 break
 
-case "tqto": case "thanksto": {
+case "merci": case "thanksto": {
 let msgbug = `*\`▧ 「 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 𝗠𝗬 𝗙𝗥𝗜𝗘𝗡𝗗𝗦 」\`*
 
-ʙᴀʀᴍᴏᴅs (ᴛᴇᴀᴄʜᴇʀ) 
-ᴄʜɪᴋᴀ (ᴍʏ ʟᴏᴠᴇ) 
-ᴡᴀɴɴ ᴏғғᴄ (ᴘᴀʀᴛɴᴇʀ) 
-ᴅᴀᴘᴘᴢ (ʙᴇsᴛ ғʀɪᴇɴᴅs)
+JOKER APOCALYPSE (PARTENAIRE) 
+OTSUTSUKI OTS (CLAN) 
+GLOBAL ICE TV (TEAM1) 
+ (ʙᴇsᴛ ғʀɪᴇɴᴅs)
 ᴊᴜsᴛɪɴ ᴏғғᴄ (ʙᴇsᴛ ғʀɪᴇɴᴅs)
 ᴇʀʟᴀɴɢɢᴀ (ʙᴇsᴛ ғʀɪᴇɴᴅs)
 ʜᴀᴍᴍ ᴏғғᴄ (ᴍʏ ғʀɪᴇɴᴅs)
