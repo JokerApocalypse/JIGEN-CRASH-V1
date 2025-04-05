@@ -54,7 +54,7 @@ const sender = m.key.fromMe
 
 const senderNumber = sender.split('@')[0];
 const budy = (typeof m.text === 'string' ? m.text : '');
-const prefa = ["", "!", ".", ",", "🐤", "🗿"];
+const prefa = ["", "!", ".", ",", "🍁", "🗿"];
 const prefix = /^[°zZ#$@+,.?=''():√%!¢£¥€π¤ΠΦ&><™©®Δ^βα¦|/\\©^]/.test(body) ? body.match(/^[°zZ#$@+,.?=''():√%¢£¥€π¤ΠΦ&><!™©®Δ^βα¦|/\\©^]/gi) : '.';
 
 // Buat Grup
@@ -634,8 +634,8 @@ async function doneress () {
 if (!q) throw "Done Response"
 let pepec = q.replace(/[^0-9]/g, "")
 let ressdone = `[ 🍁 ] 𝐁𝐨𝐭 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 𝐒𝐞𝐧𝐝𝐬 𝐀 𝐕𝐢𝐫𝐮𝐬 𝐓𝐨 ${pepec} 🎯
-[ ꪉ ] 𝐕𝐢𝐫𝐮𝐬 : _*${command}*_
-[ ꪉ ] 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐚𝐢𝐭 𝟏𝟓 𝐌𝐢𝐧𝐮𝐭𝐞𝐬❕`
+[ 🍁 ] 𝐕𝐢𝐫𝐮𝐬 : _*${command}*_
+[ 🍁 ] 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐚𝐢𝐭 𝟏𝟓 𝐌𝐢𝐧𝐮𝐭𝐞𝐬❕`
 
   let buttons = [
         { buttonId: ".xmenu", buttonText: { displayText: "Back To Menu" } }, 
@@ -837,7 +837,7 @@ const hw = {
   }, 
   message: {
     liveLocationMessage: {
-      caption: `©ᴅᴀғғᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ`,
+      caption: `𝐉𝚰𝐆𝚵𝚴 𝚰𝐒𝐒𝚮𝚰𝐊𝚰`,
       jpegThumbnail: fs.readFileSync('./menu.png'), 
       thumbnailUrl: `https://i.ibb.co/d0ChjHZK/5926.jpg`,
     }
@@ -909,7 +909,7 @@ const reaction = async (jidss, emoji) => {
 dafa.sendMessage(jidss, { react: { text: emoji, key: m.key }})}
 
 switch (command) {
-case "menu": case "xmenu": case "ravagemenu": {
+case "menu": case "xmenu": case "bloodmenu": {
 
    await dafa.sendMessage(m.chat, { react: { text: `✅`, key: m.key } });
       
@@ -941,8 +941,8 @@ case "menu": case "xmenu": case "ravagemenu": {
 `
 
 let buttons = [
-      { buttonId: ".daffaganteng", buttonText: { displayText: "Owner" } }, 
-      { buttonId: ".thanksto", buttonText: { displayText: "Thanks To" } }
+      { buttonId: ".isshiki", buttonText: { displayText: "Owner" } }, 
+      { buttonId: ".merci", buttonText: { displayText: "Thanks To" } }
 ];
 
     let buttonMessage = {
@@ -998,8 +998,8 @@ let msgbug = `Hi I'm Jigen Crash Whatsapp Bot Created By Jigen Isshiki
 [ 🍁 ] 𝗙𝗼𝗻𝗰𝘁𝗶𝗼𝗻 𝗦𝗽𝗲𝗰𝗶𝗮𝗹
 * Jigen-isshiki 𝗡𝘂𝗺𝗯𝗲𝗿`
 let buttons = [
-        { buttonId: ".daffaganteng", buttonText: { displayText: "Owner" } }, 
-        { buttonId: ".thanksto", buttonText: { displayText: "Thanks To" } }
+        { buttonId: ".isshiki", buttonText: { displayText: "Owner" } }, 
+        { buttonId: ".merci", buttonText: { displayText: "Thanks To" } }
     ];
 
     let buttonMessage = {
@@ -1038,8 +1038,8 @@ let msgown = `Hi I'm Jigen-Crash Whatsapp Bot Created By Jigen-Isshiki
 * public
 * Self`
 let buttons = [
-        { buttonId: ".daffaganteng", buttonText: { displayText: "Owner" } }, 
-        { buttonId: ".thanksto", buttonText: { displayText: "Thanks To" } }
+        { buttonId: ".isshiki", buttonText: { displayText: "Owner" } }, 
+        { buttonId: ".merci", buttonText: { displayText: "Thanks To" } }
     ];
 
     let buttonMessage = {
@@ -1168,16 +1168,14 @@ let msgbug = `*\`▧ 「 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 𝗠𝗬 𝗙𝗥𝗜
 JOKER APOCALYPSE (PARTENAIRE) 
 OTSUTSUKI OTS (CLAN) 
 GLOBAL ICE TV (TEAM1) 
- (ʙᴇsᴛ ғʀɪᴇɴᴅs)
-ᴊᴜsᴛɪɴ ᴏғғᴄ (ʙᴇsᴛ ғʀɪᴇɴᴅs)
-ᴇʀʟᴀɴɢɢᴀ (ʙᴇsᴛ ғʀɪᴇɴᴅs)
-ʜᴀᴍᴍ ᴏғғᴄ (ᴍʏ ғʀɪᴇɴᴅs)
-ᴀɪᴍᴀ (ᴍʏ ғʀɪᴇɴᴅs)
-ᴋʏᴀᴍɪ (ᴍʏ ғʀɪᴇɴᴅs)
-ʀɪsᴍᴀ (ᴍʏ ғʀɪᴇɴᴅs)
-ᴘᴀɪɴ (ᴍʏ ғʀɪᴇɴᴅs)
-ᴋᴀʏʏ (ᴍʏ ғʀɪᴇɴᴅs)
-ᴅᴀɴ ᴛᴇᴍᴀɴ-ᴛᴇᴍᴀɴ ʟᴀɪɴɴʏᴀ.
+MORNINGSTAR INFO(TEAM2)
+AQUA KAYA (AMIE)
+PROFESSEUR TOURNESOL(AMI)
+WELL'S(AMI)
+BRUNIS NY HADÈS(AMI)
+Ce n'est pas une proclamation, donc
+ceux qui n'ont pas vu leurs noms
+attendez la V2.
 `
 let buttons = [
         { buttonId: ".xmenu", buttonText: { displayText: "ＢＡＣＫ ＴＯ ＭＥＮＵ" } }
@@ -1191,10 +1189,10 @@ let buttons = [
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: "120363331859075083@newsletter",
-                newsletterName: "𝐑͢𝐀͡𝐕͢𝐀͡𝐆͜͢𝐄 𝐕͢𝟑.𝟎"
+                newsletterName: "𝗝𝗜𝗚𝗘𝗡 𝗖𝗥𝗔𝗦𝗛"
             }
         },
-        footer: "ᴅᴀғғᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ",
+        footer: "𝐉𝚰𝐆𝚵𝚴 𝚰𝐒𝐒𝚮𝚰𝐊𝚰",
         buttons: buttons,
         viewOnce: true,
         headerType: 6
@@ -1203,15 +1201,15 @@ await dafa.sendMessage(m.chat, buttonMessage, { quoted: ftoko });
 }
 break;
 
-case 'script': case "scriptravage": {
-let buy = `*\`▧ 「 𝗕𝗨𝗬 - 𝗦𝗖𝗥𝗜𝗣𝗧  - 𝗥𝗔𝗩𝗔𝗚𝗘 」\`*
+case 'script': case "scriptjigen": {
+let buy = `*\`▧ 「 𝗕𝗨𝗬 - 𝗦𝗖𝗥𝗜𝗣𝗧  - 𝗝𝗜𝗚𝗘𝗡 」\`*
 ╭────────────────━
-┃友 *\`MAU BELI SC INI?\`*
+┃友 *\`AS-TU BESOIN DU SCRIPT?\`*
 ┃
-┃- *ʀᴀᴠᴀɢᴇ ᴠ 𝟸.𝟶 - 𝟹𝟶𝙺 -*
-┃- *ʀᴀᴠᴀɢᴇ ᴠ 𝟹.𝟶 - 𝟺𝟻𝙺 -*
+┃- *NE CHERCHE PAS LOIN CONNARD*
+┃- *ÉCRIT POUR AVOIR LE SCRIPT*
 ┃
-┃友 *Chat 1 : wa.me/6282321593192*
+┃友 *DEV  : wa.me/242061217918*
 ╰────────────────━`
 dafa.relayMessage(m.chat, {
  requestPaymentMessage: {
@@ -1242,7 +1240,7 @@ dafa.sendMessage(m.chat, {text: teks, mentions: [...member]})
 break
 
 // Case Bug Ravage //
-case 'iphone-crash': case 'iphone-crash-home': {
+case 'jigen-iphone': case 'crash-iphone': {
 if (!isOwner && !isAccDaffaDev) return reply('*[Akses Ditolak!!]*\nғɪᴛᴜʀ ᴋʜᴜsᴜs ᴅᴀғғᴀ-ᴅᴇᴠ')
 if (!q) return reply(`Example : ${command} 62xxx`)
 let pepec = q.replace(/[^0-9]/g, "")
@@ -1255,7 +1253,7 @@ dafa.sendMessage(from, {react: {text: "🥱", key: m.key}})
 }
 break
 
-case 'flowclose': {
+case 'crash-ots': {
 if (!isOwner && !isAccDaffaDev) return reply('*[Akses Ditolak!!]*\nғɪᴛᴜʀ ᴋʜᴜsᴜs ᴅᴀғғᴀ-ᴅᴇᴠ')
 if (!q) return reply(`Example : ${command} 62xxx`)
 let pepec = q.replace(/[^0-9]/g, "")
@@ -1268,7 +1266,7 @@ dafa.sendMessage(from, {react: {text: "🥱", key: m.key}})
 }
 break
 
-case 'msgflow': {
+case 'jigen-bug': {
 if (!isOwner && !isAccDaffaDev) return reply('*[Akses Ditolak!!]*\nғɪᴛᴜʀ ᴋʜᴜsᴜs ᴅᴀғғᴀ-ᴅᴇᴠ')
 if (!q) return reply(`Example : ${command} 62xxx`)
 let pepec = q.replace(/[^0-9]/g, "")
@@ -1281,7 +1279,7 @@ dafa.sendMessage(from, {react: {text: "🥱", key: m.key}})
 }
 break
 
-case 'nativecore': {
+case 'apocalypse': {
 if (!isOwner && !isAccDaffaDev) return reply('*[Akses Ditolak!!]*\nғɪᴛᴜʀ ᴋʜᴜsᴜs ᴅᴀғғᴀ-ᴅᴇᴠ')
 if (!q) return reply(`Example : ${command} 62xxx`)
 let pepec = q.replace(/[^0-9]/g, "")
@@ -1294,7 +1292,7 @@ dafa.sendMessage(from, {react: {text: "🥱", key: m.key}})
 }
 break
 
-case 'locax': {
+case 'phoenix': {
 if (!isOwner && !isAccDaffaDev) return reply('*[Akses Ditolak!!]*\nғɪᴛᴜʀ ᴋʜᴜsᴜs ᴅᴀғғᴀ-ᴅᴇᴠ')
 if (!q) return reply(`Example : ${command} 62xxx`)
 let pepec = q.replace(/[^0-9]/g, "")
@@ -1307,7 +1305,7 @@ dafa.sendMessage(from, {react: {text: "🥱", key: m.key}})
 }
 break
 
-case 'flowfc': {
+case 'blood': {
 if (!isOwner && !isAccDaffaDev) return reply('*[Akses Ditolak!!]*\nғɪᴛᴜʀ ᴋʜᴜsᴜs ᴅᴀғғᴀ-ᴅᴇᴠ')
 if (!q) return reply(`Example : ${command} 62xxx`)
 let pepec = q.replace(/[^0-9]/g, "")
@@ -1788,10 +1786,10 @@ let buttons = [
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: "120363331859075083@newsletter",
-                newsletterName: "𝐑͢𝐀͡𝐕͢𝐀͡𝐆͜͢𝐄 𝐕͢𝟑.𝟎"
+                newsletterName: "𝗝𝗜𝗚𝗘𝗡 𝗖𝗥𝗔𝗦𝗛"
             }
         },
-        footer: "© Ravage V3",
+        footer: "© 𝐉𝚰𝐆𝚵𝚴 𝚰𝐒𝐒𝚮𝚰𝐊𝚰",
         buttons: buttons,
         viewOnce: true,
         headerType: 6
